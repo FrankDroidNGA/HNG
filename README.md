@@ -7,3 +7,7 @@ https://twitter.com/ochufranklin/status/1165256017392865280?s=19
 #Lucid Blog Post
 https://lucid.blog/ochukwumafranklin/post/1566657281
 
+#HNG Task 3
+#Lucid Blog Post 
+https://lucid.blog/ochukwumafranklin/post/how-css-affected-the-html-ced
+
